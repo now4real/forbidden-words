@@ -29,6 +29,5 @@
  { "code": "swe", "name": "Swedish"},
  { "code": "tha", "name": "Thai"},
  { "code": "tur", "name": "Turkish"},
- { "code": "ukr", "name": "Ukrainian"},
- { "code": "vie", "name": "Vietnamese"}
+ { "code": "ukr", "name": "Ukrainian"}
 ]
